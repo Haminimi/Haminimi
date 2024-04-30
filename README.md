@@ -77,7 +77,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Haminimi/Haminimi/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/Haminimi/Haminimi/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
