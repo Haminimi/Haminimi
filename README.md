@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">My website 🌐</h1>
+<h1 align="left">Website 🌐</h1>
 
 ###
 
