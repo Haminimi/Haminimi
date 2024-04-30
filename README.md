@@ -1,12 +1,12 @@
-<h1 align="left">About me</h1>
+<h1 align="left">About me 👨🏻‍💻</h1>
 
 ###
 
-<p align="left">Hey, I'm Hamza, a self-taught web developer. While I graduated with a degree in Accounting and Finance, I followed my passion for coding, and I chose that path after my studies.</p>
+<p align="left">👋 Hey, I'm Hamza, a self-taught web developer. While I graduated with a degree in Accounting and Finance, I followed my passion for coding, and I chose that path after my studies.</p>
 
 ###
 
-<h1 align="left">Skills</h1>
+<h1 align="left">Skills 💻</h1>
 
 ###
 
@@ -52,12 +52,14 @@
 
 ###
 
-<h1 align="left">Socials</h1>
+<h1 align="left">Socials 📱</h1>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="haminimi.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
@@ -66,5 +68,15 @@
 ###
 
 <h1 align="left">Stats</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Haminimi&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Haminimi/Haminimi/output/snake.svg" alt="Snake animation" />
 
 ###
