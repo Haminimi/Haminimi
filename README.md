@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Hamza, a self-taught web developer. While I graduated with a degree in Accounting and Finance, I followed my passion for coding, and I chose that path after my studies.</p>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFpNGNhODV0aTNlNzhyc2lvZ3hjbTN3YWVwOTUwM2l5dGJ5MGtidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif"  />
+
+###
+
+<p align="left">👋 Hey, I'm Hamza, a self-taught web developer. While I graduated with a degree in Accounting and Finance, I followed my passion for coding, and I chose that path after my studies. <br><br>I enjoy working with modern web technologies and learning new skills in the area. Although I am specializing in web technologies, I am also very interested in other areas of computer science. I love solving interesting coding problems and learning about various other topics. <br><br>I am happy to be a part of the community and to contribute to the exciting world of computer science and software development. Happy coding!</p>
 
 ###
 
