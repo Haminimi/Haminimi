@@ -6,6 +6,10 @@
 
 ###
 
+<h3 align="left">🔭 I’m currently preparing for interviews<br>🌱 I’m currently learning Next.js, Typescript and Three.js</h3>
+
+###
+
 <h1 align="left">Website 🌐</h1>
 
 ###
