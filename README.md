@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'll add it soon.</p>
+<p align="left">https://www.hamzamujinovic.com/</p>
 
 ###
 
@@ -67,9 +67,6 @@
 <div align="left">
   <a href="https://github.com/Haminimi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/Haminimi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="https://dev.to/haminimi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
