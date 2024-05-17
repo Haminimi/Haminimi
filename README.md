@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Hamza, a self-taught Full Stack Developer from Bosnia and Herzegovina. Following my passion, I transitioned from Accounting and Finance to Software Development.<br><br>I want to focus more of my efforts in the fields of AI, Machine Learning, Data Engineering, Data Science, and Automation Engineering.<br><br>I am happy to be a part of the community and to contribute to the exciting world of Computer Science and Software Engineering.</p>
+<p align="left">👋 Hey, I'm Hamza, a Full Stack Developer from Bosnia and Herzegovina. Following my passion, I transitioned from Accounting and Finance to Software Development.<br><br>I want to focus more of my efforts in the fields of AI, Machine Learning, Data Engineering, Data Science, and Automation Engineering.<br><br>I am happy to be a part of the community and to contribute to the exciting world of Computer Science and Software Engineering.</p>
 
 ###
 
@@ -78,6 +78,16 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Haminimi&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Haminimi/Haminimi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V3OG1rNmRsaGQyMTJ4NmlnZjR6bHQzbjg2NXM4bTNlZm93dmJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif"  />
 </div>
 
 ###
