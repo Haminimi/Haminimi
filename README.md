@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Hamza, a self-taught Full Stack Developer from Bosnia and Herzegovina. While I graduated with a degree in Accounting and Finance, I followed my passion for coding, and I chose that path after my studies. <br><br>I enjoy working with modern web technologies and learning new skills in the area. Although I am specializing in web technologies, I am also very interested in other areas of computer science and software engineering. I love solving interesting coding problems and learning about various other topics. <br><br>I am happy to be a part of the community and to contribute to the exciting world of computer science and software engineering. Happy coding!</p>
+<p align="left">👋 Hey, I'm Hamza, a self-taught Full Stack Developer from Bosnia and Herzegovina. Following my passion, I transitioned from Accounting and Finance to Software Development.<br><br>I want to focus more of my efforts in the fields of AI, Machine Learning, Data Engineering, Data Science, and Automation Engineering.<br><br>I am happy to be a part of the community and to contribute to the exciting world of Computer Science and Software Engineering.</p>
 
 ###
 
@@ -67,9 +67,6 @@
 <div align="left">
   <a href="https://github.com/Haminimi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/haminimi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
   </a>
 </div>
 
