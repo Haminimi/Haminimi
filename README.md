@@ -91,13 +91,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Haminimi/Haminimi/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2V3OG1rNmRsaGQyMTJ4NmlnZjR6bHQzbjg2NXM4bTNlZm93dmJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif"  />
-</div>
-
-###
