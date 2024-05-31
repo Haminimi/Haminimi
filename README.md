@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Hamza, a Full Stack Developer from Bosnia and Herzegovina. Following my passion, I transitioned from Accounting and Finance to Software Engineering.<br><br>I want to focus more of my efforts in the fields of AI, Machine Learning, Data Engineering, and Data Science.<br><br>I am happy to be part of the tech community and to contribute to the exciting world of Computer Science and Software Engineering.</p>
+<p align="left">👋 Hey, I'm Hamza, a Full Stack Developer from Bosnia and Herzegovina. My journey into tech began with a transition from Accounting and Finance to Software Development, driven by my passion for technology.<br><br>My unique blend of business acumen, technical expertise, analytical skills, and commitment to continuous improvement positions me to contribute effectively to various projects.<br><br>Looking ahead, I aim to focus more of my efforts on Data Science, AI, and Machine Learning.</p>
 
 ###
 
