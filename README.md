@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hey, I'm Hamza, a Full Stack Developer from Bosnia and Herzegovina. My journey into tech began with a transition from Accounting and Finance to Software Development, driven by my passion for technology.<br><br>My unique blend of business acumen, technical expertise, analytical skills, and commitment to continuous improvement positions me to contribute effectively to diverse and challenging projects.<br><br>Looking ahead, I aim to focus more of my efforts on Data Science, AI, and Machine Learning.</p>
+<p align="left">👋 I am a passionate and versatile professional with a Bachelor’s degree in Accounting and Finance and a strong foundation in Software Engineering, which I have pursued through self-study and hands-on projects. My unique skill set allows me to bridge the gap between finance and technology, enabling innovative solutions in business, finance and software development.<br><br>In the finance sector, I have honed my analytical thinking, quantitative skills, and problem-solving abilities. These skills are complemented by my technical proficiency in full stack JavaScript development, particularly with React and Node.js, and a keen interest in Data Science, AI, and Machine Learning.<br><br>I am excited about opportunities that allow me to leverage my combined expertise in finance and software engineering to drive business value, whether through financial roles, software development, or a blend of both.<br><br>My unique blend of business acumen, technical expertise, analytical skills, and commitment to continuous improvement positions me to contribute effectively to diverse and challenging projects.</p>
 
 ###
 
