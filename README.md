@@ -6,19 +6,19 @@
 
 ###
 
-<h1 align="left">Projects 📂</h1>
-
-###
-
-<p align="left">Currently, only my software engineering projects are available on GitHub. For data projects, you can visit my website for a comprehensive overview and access each of the projects from there.</p>
-
-###
-
 <h1 align="left">Website 🌐</h1>
 
 ###
 
 <p align="left">https://www.hamzamujinovic.com/</p>
+
+###
+
+<h1 align="left">Projects 📂</h1>
+
+###
+
+<p align="left">Currently, only my software engineering projects are available on GitHub. For data projects, you can visit my website for a comprehensive overview and access each of the projects from there.</p>
 
 ###
 
@@ -35,15 +35,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
 </div>
 
 ###
