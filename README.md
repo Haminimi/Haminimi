@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Here on my GitHub, you'll find that most of the projects are currently focused on Web Development. For data-related projects, you can visit my Kaggle profile or my website for a comprehensive overview and direct access to each project. In the future, I plan to expand my GitHub portfolio to include other areas, such as Data Science, AI and ML.</p>
+<p align="left">Here on my GitHub, you'll find that most of the projects are currently focused on Web Development. For data-related projects, you can visit my Kaggle profile or my website for a comprehensive overview and direct access to each project.</p>
 
 ###
 
