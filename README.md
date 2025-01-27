@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a data analyst with a Bachelor’s degree in Accounting and Finance and a strong foundation in software engineering, which I have pursued through self-study and hands-on projects. My passion for leveraging data to empower fact-based decision-making, combined with my unique skill set, allows me to bridge the gap between technology and business, enabling innovative solutions with a comprehensive perspective.<br><br>During my studies, I developed strong analytical thinking, quantitative skills, and problem-solving abilities. These are complemented by my technical proficiency in Python, SQL and Tableau for Data Analytics, along with a keen interest in AI, Machine Learning, and other areas of the data field, such as Data Science and Data Engineering.<br><br>I possess strong presentation and communication skills, enabling me to present findings in a compelling manner to both technical and non-technical stakeholders.<br><br>Additionally, I am proficient in full-stack JavaScript development, particularly in React and Node.js, and have a solid grasp of fundamental computer science concepts such as algorithms, data structures, and OOP.<br><br>Key Highlights:<br><br>- Data Analytics in Python, SQL, and Tableau<br>- Bachelor's degree in Accounting and Finance<br>- Excellent analytical, quantitative, and problem-solving abilities<br>- Strong presentation and communication skills<br>- Passionate about bridging technology and business<br><br>I am excited about opportunities that allow me to utilize my unique blend of analytical skills, technical expertise, and business acumen.</p>
+<p align="left">I am a Data Analyst with a Bachelor’s degree in Economics and a solid foundation in Software Engineering, developed through self-study and personal projects. With a lot of different fields of interest, my main focus is currently on Data Science and AI topics.<br><br>Some of the tools I use the most in my current role as a Data Analyst are Python and Excel for data analysis, reporting, and automation. I thrive in environments with strong cross-disciplinary collaboration, allowing me to utilize different types of skills and expertise.<br><br>Key Highlights:<br><br>- Bachelor's degree in Economics<br><br>- Data Analytics in Python and Excel<br><br>- Developing skills in the fields of Data Science and AI<br><br>- Passionate about cross-disciplinary solutions</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Currently, only my software engineering projects are available on GitHub. For data projects, you can visit my website for a comprehensive overview and access each of the projects from there.</p>
+<p align="left">Here on my GitHub, you'll find that most of the projects are currently focused on Web Development. For data-related projects, you can visit my Kaggle profile or my website for a comprehensive overview and direct access to each project. In the future, I plan to expand my GitHub portfolio to include other areas, such as Data Science, AI and ML.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Here is an overview of my general skills and Full-Stack Engineering focused skills. When I start adding my data projects here, I will focus more on those skills.</p>
+<p align="left">Here is an overview of my general tech and Web Development skills.</p>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Full Stack Focus</h2>
+<h2 align="left">Full Stack Skills</h2>
 
 ###
 
@@ -59,8 +59,6 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="55" alt="webpack logo"  />
-  <img width="18" />
   <img src="https://skillicons.dev/icons?i=jest" height="55" alt="jest logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
@@ -68,8 +66,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vite" height="55" alt="vite logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="vercel logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
   <img width="18" />
