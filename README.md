@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a Data Analyst with a background in Economics and a strong technical skill set developed through self-study and hands-on project work. In my current role, I focus on solving problems using Python and Excel—developing automations, transforming data, and delivering reports that support decision-making and operational efficiency.<br><br>My work sits at the intersection of analytics, automation, and business needs. I regularly build tools and scripts that streamline internal workflows and optimize how data is collected, processed, and used.<br><br>Key Highlights:<br><br>- Bachelor's degree in Economics<br><br>- Data Analytics in Python and Excel<br><br>- Developing skills in the fields of Data Science and AI<br><br>- Passionate about cross-disciplinary solutions</p>
+<p align="left">I’m a Data Analyst with a background in Economics and a strong technical skill set developed through self-study and hands-on project work. In my current role, I focus on solving problems using Python and Excel—developing automations, transforming data, and delivering reports that support decision-making and operational efficiency.<br><br>My work sits at the intersection of analytics, automation, and business needs. I regularly build tools and scripts that streamline internal workflows and optimize how data is collected, processed, and used.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Here on my GitHub, you'll find that most of the projects are currently focused on Web Development. For data-related projects, you can visit my Kaggle profile or my website for a comprehensive overview and direct access to each project.</p>
+<p align="left">This GitHub profile showcases my hobby projects, mostly from my early coding journey in web development. Feel free to explore my public repositories to see some of them.</p>
 
 ###
 
@@ -26,25 +26,7 @@
 
 ###
 
-<p align="left">Here is an overview of my general tech and Web Development skills.</p>
-
-###
-
-<h2 align="left">Tools and Platforms</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=bash" height="55" alt="bash logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
-</div>
+<p align="left">An overview of my Full Stack skills gained through self-study and practical projects.</p>
 
 ###
 
