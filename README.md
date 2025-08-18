@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">An overview of my Full Stack skills gained through self-study and practical projects.</p>
+<p align="left">An overview of my Full Stack skills gained through self-study and practical projects, mostly from my early coding days.</p>
 
 ###
 
