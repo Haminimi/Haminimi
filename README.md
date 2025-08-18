@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Data Analyst with a Bachelor’s degree in Economics and a solid foundation in Software Engineering, developed through self-study and personal projects. With a lot of different fields of interest, my main focus is currently on Data Science and AI topics.<br><br>Some of the tools I use the most in my current role as a Data Analyst are Python and Excel for data analysis, reporting, and automation. I thrive in environments with strong cross-disciplinary collaboration, allowing me to utilize different types of skills and expertise.<br><br>Key Highlights:<br><br>- Bachelor's degree in Economics<br><br>- Data Analytics in Python and Excel<br><br>- Developing skills in the fields of Data Science and AI<br><br>- Passionate about cross-disciplinary solutions</p>
+<p align="left">I’m a Data Analyst with a background in Economics and a strong technical skill set developed through self-study and hands-on project work. In my current role, I focus on solving problems using Python and Excel—developing automations, transforming data, and delivering reports that support decision-making and operational efficiency.<br><br>My work sits at the intersection of analytics, automation, and business needs. I regularly build tools and scripts that streamline internal workflows and optimize how data is collected, processed, and used.<br><br>Key Highlights:<br><br>- Bachelor's degree in Economics<br><br>- Data Analytics in Python and Excel<br><br>- Developing skills in the fields of Data Science and AI<br><br>- Passionate about cross-disciplinary solutions</p>
 
 ###
 
