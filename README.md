@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">https://www.hamzamujinovic.com/</p>
+<p align="left">https://www.mujinovichamza.com/</p>
 
 ###
 
